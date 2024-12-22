@@ -20,3 +20,6 @@ the shoes that flashes when you step on something
 
 mechanical energy -> electrical energy -> light energy
 
+## Ouch
+
+How you get bruised -> how you get shocked -> how you get sunburn 
