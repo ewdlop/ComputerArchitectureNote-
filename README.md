@@ -11,6 +11,7 @@
 - Minecraft <https://www.reddit.com/r/feedthebeast/>
 - Factorio
 - [Domino_computer(https://en.wikipedia.org/wiki/Domino_computer)](https://en.wikipedia.org/wiki/Domino_computer)
+- [Billiard-ball_computer(https://en.wikipedia.org/wiki/Billiard-ball_computer)](https://en.wikipedia.org/wiki/Billiard-ball_computer)
 
   
 # URISC(call)
@@ -19,6 +20,8 @@ https://en.wikipedia.org/wiki/One-instruction_set_computer
 ## oscillator crystal(isnt/wasnt/arent this for voltage synchronization?)
 
 An oscillator crystal is a piezoelectric material or vibrating crystal that generates an electrical signal at a precise frequency in an electronic circuit
+
+[石英晶体谐振器(https://zh.wikipedia.org/wiki/石英晶体谐振器](https://en.wikipedia.org/wiki/Crystal_oscillator)
 
 ## piezoelectric
 
