@@ -10,7 +10,7 @@
 - Terraria
 - Minecraft <https://www.reddit.com/r/feedthebeast/>
 - Factorio
-- [Domino_computer(https://en.wikipedia.org/wiki/Domino_computer)])(https://en.wikipedia.org/wiki/Domino_computer)
+- [Domino_computer(https://en.wikipedia.org/wiki/Domino_computer)](https://en.wikipedia.org/wiki/Domino_computer)
 
   
 # URISC(call)
