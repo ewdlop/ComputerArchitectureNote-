@@ -11,7 +11,7 @@
 - Minecraft <https://www.reddit.com/r/feedthebeast/>
 - Factorio
 - [Domino_computer(https://en.wikipedia.org/wiki/Domino_computer)](https://en.wikipedia.org/wiki/Domino_computer)
-- [Billiard-ball_computer(https://en.wikipedia.org/wiki/Billiard-ball_computer)](https://en.wikipedia.org/wiki/Billiard-ball_computer)
+- [Billiard-ball_computer(https://en.wikipedia.org/wiki/Billiard-ball_computer)](https://en.wikipedia.org/wiki/Billiard-ball_computer)(Reversible computing)
 
   
 # URISC(call)
