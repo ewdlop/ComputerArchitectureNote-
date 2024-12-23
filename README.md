@@ -1,5 +1,9 @@
 # ComputerArchitectureNote-
 
+# ARMulator
+
+<https://cpulator.01xz.net/?sys=arm>
+
 ## CPU in all sort of games(dont forget the clocks and clock speed is from the oscillator crystal* and NOT from the logic circuits
 
 - html5/css(oh wait)
